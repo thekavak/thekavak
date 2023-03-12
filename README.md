@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thekavak
-- 👀 I’m interested in mobile development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in mobile development with flutter
+- 🌱 I’m currently learning ios & swift
 - 📫 How to reach me hamzakavak@outlook.com
 
 <!---
